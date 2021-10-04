@@ -1,3 +1,3 @@
 # tech-drone.github.io
-Public site
-Visit - https://tech-drone.github.io
+
+Visit public site - https://tech-drone.github.io
